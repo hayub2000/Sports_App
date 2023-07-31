@@ -1,0 +1,42 @@
+[
+{
+    "away": {
+      "code": "RCB",
+      "id": 101760,
+      "name": "Royal Challengers Bangalore"
+    },
+    "date": "2020-09-21T14:00:00+00:00",
+    "home": {
+      "code": "SUH",
+      "id": 101763,
+      "name": "Sunrisers Hyderabad"
+    },
+    "id": 2433081,
+    "match_subtitle": "3rd Match",
+    "match_title": "Sunrisers Hyderabad v Royal Challengers Bangalore at Dubai International Cricket Stadium (night), T20.",
+    "result": "",
+    "series_id": 608,
+    "status": "Fixture",
+    "venue": "Dubai International Cricket Stadium (night)"
+},
+
+
+
+
+{
+  "away": "Connacht",
+  "away_id": 10217,
+  "away_score": 0,
+  "comp_id": 1236,
+  "comp_name": "Guinness PRO14",
+  "date": "2020-08-30T14:00:00+00:00",
+  "game_week": 15,
+  "home": "Munster",
+  "home_id": 6467,
+  "home_score": 0,
+  "id": 3258223,
+  "season": "2020",
+  "status": "Not Started",
+  "updated": "2020-08-19T01:00:01+00:00",
+  "venue": "Aviva Stadium"
+}]
