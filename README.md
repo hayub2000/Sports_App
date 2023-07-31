@@ -1,2 +1,5 @@
 # Sports_App
-Sports App implemented on react native including the splash screen, stack and tab navigation and Sports data fetched through the API
+Sports App implemented using React Native and Expo GO which includes the following:
+Splash screen 
+Stack and Tab navigation 
+Data fetching through API
